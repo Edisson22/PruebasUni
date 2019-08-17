@@ -1,0 +1,22 @@
+{
+    "name": "pruebasuni",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Edisson22/PruebasUni.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Edisson22/PruebasUni/issues"
+    },
+    "homepage": "https://github.com/Edisson22/PruebasUni#readme",
+    "dependencies": {
+        "jest": "^24.9.0"
+    }
+}
